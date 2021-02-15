@@ -1,0 +1,6 @@
+idevent	speaker	text	nextevent	LastEventInSequence	imageAsset	audioAsset
+0	Player	Welcome to EDACIOUS BALL!	1	N	PlayerDialogueImage	random music1
+1	Player	Let's go!	2	Y	PlayerDialogueImageMove	random music2
+5	Player	enough of that!	999	N	PlayerDialogueImageTired	
+2	Player	Unbelievable!	-1	Y	PlayerDialogueImageTired	random music3	
+999	Player	what a terrible lecture!	2	Y	PlayerDialogueImage	
